@@ -4,4 +4,4 @@ A simple pelican plugin used to populate a variable `{{ QUOTE }}` selecting rand
 
 ## Usage
 
-Put in your `pelicanconf.py` the variable RANDOM_QUOTE configured pointing to a text file with a line for every quote and put in your template the variable `{{ QUOTE }}` where you want to show the line selected.
+Put in your `pelicanconf.py` the variable `RANDOM_QUOTE` configured pointing to a text file with a line for every quote and put in your template the variable `{{ QUOTE }}` where you want to show the line selected.
